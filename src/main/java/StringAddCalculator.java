@@ -3,22 +3,17 @@ import java.util.regex.Pattern;
 
 public class StringAddCalculator {
 
-    public boolean nullOrEmpty(String text) {
-        if (text == null || text.isEmpty()) {
-            return true;
-        }
-        return false;
+    public boolean isNullOrEmpty(String text) {
+        return text == null || text.isEmpty();
     }
 
     public int add(String text) {
-        if (nullOrEmpty(text)) return 0;
+        if (isNullOrEmpty(text)) return 0;
         String tokens[] = separateText(text);
-        int numbers[] = new int[tokens.length];
         for (int i = 0; i < tokens.length; i++) {
             checkNegative(tokens[i]);
-            numbers[i] = Integer.parseInt(tokens[i]);
         }
-        return sum(numbers);
+        return sum(tokens);
     }
 
     public String[] separateText(String text) {
@@ -30,10 +25,10 @@ public class StringAddCalculator {
         return text.split(",|:");
     }
 
-    public int sum(int[] numbers) {
+    public int sum(String[] tokens) {
         int answer = 0;
-        for (int i = 0; i < numbers.length; i++) {
-            answer += numbers[i];
+        for (int i = 0; i < tokens.length; i++) {
+            answer += Integer.parseInt(tokens[i]);
         }
         return answer;
     }
