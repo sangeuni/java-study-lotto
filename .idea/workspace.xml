@@ -4,7 +4,10 @@
     <list default="true" id="466b0384-2a1d-4434-b2ca-0914cbb41955" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/out/production/classes/StringAddCalculator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/StringAddCalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/StringAddCalculatorTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dto/LottoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dto/LottoDTO.java" afterDir="false" />
@@ -14,6 +17,9 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/view/LottoGameMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/LottoGameMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/view/ResultView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/ResultView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LottoGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LottoGameTest.java" afterDir="false" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -78,7 +84,11 @@
         <counts>
           <entry key="gitignore" value="2" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           <entry key="java" value="28" />
+=======
+          <entry key="java" value="66" />
+>>>>>>> Stashed changes
 =======
           <entry key="java" value="66" />
 >>>>>>> Stashed changes
@@ -89,7 +99,11 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           <entry key="JAVA" value="28" />
+=======
+          <entry key="JAVA" value="66" />
+>>>>>>> Stashed changes
 =======
           <entry key="JAVA" value="66" />
 >>>>>>> Stashed changes
@@ -124,8 +138,13 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/util/Rank.java">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             <state relative-caret-position="680">
               <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+=======
+            <state relative-caret-position="360">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+>>>>>>> Stashed changes
 =======
             <state relative-caret-position="360">
               <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
@@ -136,10 +155,17 @@
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/src/main/java/model/LottoNo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-88">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/view/ResultView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="9" column="102" selection-start-line="9" selection-start-column="102" selection-end-line="9" selection-end-column="102" />
+>>>>>>> Stashed changes
 =======
         <entry file="file://$PROJECT_DIR$/src/main/java/view/ResultView.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -158,11 +184,14 @@
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/src/main/java/dto/LottoGameDTO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="12">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
 =======
+=======
+>>>>>>> Stashed changes
         <entry file="file://$PROJECT_DIR$/src/main/java/model/Lotto.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
@@ -188,6 +217,7 @@
         </entry>
       </file>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/LottoGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -200,6 +230,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/view/InputView.java">
           <provider selected="true" editor-type-id="text-editor">
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/view/InputView.java">
+          <provider selected="true" editor-type-id="text-editor">
+>>>>>>> Stashed changes
             <state relative-caret-position="20">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
@@ -214,6 +249,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
               <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             </state>
           </provider>
@@ -222,10 +260,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/WinningLotto.java">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
 =======
+=======
+>>>>>>> Stashed changes
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
@@ -238,12 +279,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -252,6 +297,10 @@
 =======
         <entry file="file://$PROJECT_DIR$/src/test/java/LottoGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
+=======
+        <entry file="file://$PROJECT_DIR$/src/test/java/LottoGameTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+>>>>>>> Stashed changes
             <state relative-caret-position="1060">
               <caret line="62" column="72" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
             </state>
@@ -263,6 +312,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             </state>
           </provider>
@@ -642,8 +694,12 @@
         <option value="$PROJECT_DIR$/src/main/java/model/Lotto.java" />
         <option value="$PROJECT_DIR$/src/main/java/view/ResultView.java" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/main/java/util/Rank.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/view/LottoGameMain.java" />
+>>>>>>> Stashed changes
 =======
         <option value="$PROJECT_DIR$/src/main/java/view/LottoGameMain.java" />
 >>>>>>> Stashed changes
@@ -657,7 +713,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <component name="ProjectFrameBounds" extendedState="7">
+=======
+  <component name="ProjectFrameBounds">
+>>>>>>> Stashed changes
 =======
   <component name="ProjectFrameBounds">
 >>>>>>> Stashed changes
@@ -733,6 +793,41 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
 <<<<<<< Updated upstream
 =======
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-study-lotto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study-lotto" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-study-lotto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study-lotto" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-study-lotto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study-lotto" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-study-lotto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study-lotto" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
@@ -929,12 +1024,21 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="72478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
+=======
+    <option name="totallyTimeSpent" value="180164000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27461708" />
+>>>>>>> Stashed changes
 =======
     <option name="totallyTimeSpent" value="180164000" />
   </component>
@@ -960,8 +1064,13 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.32899022" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.28121606" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.330076" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.28399122" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" weight="0.28338763" />
+>>>>>>> Stashed changes
 =======
       <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.28399122" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" weight="0.28338763" />
@@ -1055,8 +1164,11 @@
       </provider>
     </entry>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/main/java/view/InputView.java">
 =======
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/main/java/model/ManualLottoList.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/model/AutoLottoList.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/util.java" />
@@ -1071,6 +1183,9 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -1081,9 +1196,12 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/util/Rank.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <state relative-caret-position="100">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
 =======
+=======
+>>>>>>> Stashed changes
         <state relative-caret-position="360">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
@@ -1133,8 +1251,13 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/model/WinningLotto.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <state relative-caret-position="140">
           <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+=======
+        <state relative-caret-position="300">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+>>>>>>> Stashed changes
 =======
         <state relative-caret-position="300">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
@@ -1165,6 +1288,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/view/LottoGameMain.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         <state relative-caret-position="300">
           <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
@@ -1219,6 +1343,10 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+>>>>>>> Stashed changes
 =======
         <state relative-caret-position="140">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
