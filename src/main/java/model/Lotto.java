@@ -1,43 +1,59 @@
 package model;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class Lotto {
-    private List<Integer> lotto = new ArrayList();
-    private int matchCount = 0;
+    private static final int FIRST_LOTTO_NUMBER = 1;
+    private static final int LAST_LOTTO_NUMBER = 45;
+    private static final int LOTTO_SIZE = 6;
+    private List<LottoNo> lotto;
 
-    public void setMatchCount(int matchCount) {
-        this.matchCount = matchCount;
+
+    public Lotto() {
+        lotto = generateLottoList();
     }
 
-    public int getMatchCount() {
-        return matchCount;
-    }
-
-    public void setNumber() {
-        for (int i = 0; i < 6; i++) {
-            this.lotto.add(i, generateLottoList().get(i));
+    public Lotto(String manualNumbers) {
+        lotto = new ArrayList<>();
+        for (String number : manualNumbers.split(",")) {
+            lotto.add(new LottoNo(Integer.parseInt(number)));
         }
+        if (lotto.size() < LOTTO_SIZE) throw new InputMismatchException();
     }
 
-    public List<Integer> getLottoNumber() {
+    public List<LottoNo> getLotto() {
         return this.lotto;
     }
 
-    public List<Integer> generateLottoList() {
-        List<Integer> lottoList = new ArrayList();
-        List<Integer> lotto = new ArrayList();
-        for (int i = 1; i <= 45; i++) {
-            lottoList.add(i);
+    public List<LottoNo> generateLottoList() {
+        List<LottoNo> lottoList = new ArrayList<>();
+        List<LottoNo> lotto = new ArrayList<>();
+        for (int i = FIRST_LOTTO_NUMBER; i <= LAST_LOTTO_NUMBER; i++) {
+            lottoList.add(new LottoNo(i));
         }
         Collections.shuffle(lottoList);
-        for (int i = 0; i < 6; i++) {
+        for (int i = 0; i < LOTTO_SIZE; i++) {
             lotto.add(i, lottoList.get(i));
         }
-        Collections.sort(lotto);
+        Collections.sort(lotto, new Comparator<LottoNo>() {
+            @Override
+            public int compare(LottoNo o1, LottoNo o2) {
+                if (o1.getNumber() < o2.getNumber()) {
+                    return -1;
+                } else if (o1.getNumber() > o2.getNumber()) {
+                    return 1;
+                }
+                return 0;
+            }
+        });
         return lotto;
     }
 
+    public boolean contains(int bonusBall) {
+        for (LottoNo ball : lotto) {
+            int number = Integer.parseInt(ball.toString());
+            if (number == bonusBall) return true;
+        }
+        return false;
+    }
 }
