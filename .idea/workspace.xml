@@ -3,24 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="466b0384-2a1d-4434-b2ca-0914cbb41955" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-      <change beforePath="$PROJECT_DIR$/out/production/classes/StringAddCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/StringAddCalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/StringAddCalculatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dto/LottoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dto/LottoDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Lotto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/LottoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/LottoGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/view/InputView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/InputView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/view/LottoGameMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/LottoGameMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/view/ResultView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/ResultView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LottoGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LottoGameTest.java" afterDir="false" />
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -52,61 +34,30 @@
     <session id="721833974">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.18785" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.29" value="2" />
-          <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.34" value="2" />
-          <entry key="project.open.time.35" value="3" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.46" value="1" />
-          <entry key="project.open.time.53" value="1" />
-          <entry key="project.open.time.59" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-          <entry key="java" value="28" />
-=======
-          <entry key="java" value="66" />
->>>>>>> Stashed changes
-=======
-          <entry key="java" value="66" />
->>>>>>> Stashed changes
+          <entry key="java" value="27" />
           <entry key="plan" value="1" />
           <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-          <entry key="JAVA" value="28" />
-=======
-          <entry key="JAVA" value="66" />
->>>>>>> Stashed changes
-=======
-          <entry key="JAVA" value="66" />
->>>>>>> Stashed changes
+          <entry key="JAVA" value="27" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="7" />
         </counts>
@@ -114,16 +65,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="16491" />
+          <entry key="java" value="7878" />
           <entry key="plan" value="6" />
-          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16491" />
+          <entry key="JAVA" value="7878" />
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -137,65 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/util/Rank.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-            <state relative-caret-position="680">
-              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-=======
             <state relative-caret-position="360">
               <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
->>>>>>> Stashed changes
-=======
-            <state relative-caret-position="360">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
->>>>>>> Stashed changes
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/LottoNo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/view/ResultView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="9" column="102" selection-start-line="9" selection-start-column="102" selection-end-line="9" selection-end-column="102" />
->>>>>>> Stashed changes
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/view/ResultView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="9" column="102" selection-start-line="9" selection-start-column="102" selection-end-line="9" selection-end-column="102" />
->>>>>>> Stashed changes
-              <folding>
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        <entry file="file://$PROJECT_DIR$/src/main/java/dto/LottoGameDTO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-=======
-=======
->>>>>>> Stashed changes
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/Lotto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -211,35 +103,6 @@
                 <element signature="e#337#338#0" expanded="true" />
                 <element signature="e#384#385#0" expanded="true" />
               </folding>
->>>>>>> Stashed changes
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LottoGameTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-448">
-              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/view/InputView.java">
-          <provider selected="true" editor-type-id="text-editor">
-=======
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/view/InputView.java">
-          <provider selected="true" editor-type-id="text-editor">
->>>>>>> Stashed changes
-            <state relative-caret-position="20">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -249,74 +112,23 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
               <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/WinningLotto.java">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-=======
-=======
->>>>>>> Stashed changes
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/view/LottoGameMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="1020" column="10" selection-start-line="1020" selection-start-column="10" selection-end-line="1020" selection-end-column="10" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/test/java/LottoGameTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-=======
-        <entry file="file://$PROJECT_DIR$/src/test/java/LottoGameTest.java">
-          <provider selected="true" editor-type-id="text-editor">
->>>>>>> Stashed changes
-            <state relative-caret-position="1060">
-              <caret line="62" column="72" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/LottoGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-            </state>
+            <state relative-caret-position="-17951" />
           </provider>
         </entry>
       </file>
@@ -328,14 +140,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>static</find>
-      <find>toListWinningNumbers</find>
-      <find>toListWinning</find>
-      <find>thr</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -680,29 +484,12 @@
         <option value="$PROJECT_DIR$/src/main/java/LottoGameMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lotto.java" />
         <option value="$PROJECT_DIR$/src/main/java/LottoGame.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LottoGameTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/LottoDTO.java" />
         <option value="$PROJECT_DIR$/src/main/java/ResultView.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/StringAddCalculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dto/LottoDTO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dto/LottoGameDTO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/Rank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/WinningLotto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/view/LottoGameMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/LottoGame.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LottoGameTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/view/InputView.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/LottoNo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/Lotto.java" />
         <option value="$PROJECT_DIR$/src/main/java/view/ResultView.java" />
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/util/Rank.java" />
-=======
-        <option value="$PROJECT_DIR$/src/main/java/view/LottoGameMain.java" />
->>>>>>> Stashed changes
-=======
-        <option value="$PROJECT_DIR$/src/main/java/view/LottoGameMain.java" />
->>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -712,15 +499,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  <component name="ProjectFrameBounds" extendedState="7">
-=======
   <component name="ProjectFrameBounds">
->>>>>>> Stashed changes
-=======
-  <component name="ProjectFrameBounds">
->>>>>>> Stashed changes
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -791,52 +570,6 @@
               <item name="java-study-lotto" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-study-lotto" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-<<<<<<< Updated upstream
-=======
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-study-lotto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-study-lotto" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-study-lotto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-study-lotto" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-study-lotto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-study-lotto" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-study-lotto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-study-lotto" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-study-lotto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-study-lotto" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
->>>>>>> Stashed changes
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -856,10 +589,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542618133093" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540979308540" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -878,71 +610,77 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LottoGameTest.rank_test">
-    <configuration name="LottoGameTest.countMatchNumber_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LottoGameTest.getResult_test">
+    <configuration name="LottoGameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.LottoGameMain" />
+      <module name="java-study-lotto_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LottoGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-study-lotto_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LottoGameTest" />
-      <option name="METHOD_NAME" value="countMatchNumber_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LottoGameTest.getResult_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-study-lotto_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LottoGameTest" />
+      <option name="METHOD_NAME" value="getResult_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LottoGameTest.getProfitRate_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LottoGameTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-study-lotto_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LottoGameTest" />
-      <option name="METHOD_NAME" value="getProfitRate_test" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LottoGameTest.input_negativeMoney_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LottoGameTest.toArrayList_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-study-lotto_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LottoGameTest" />
-      <option name="METHOD_NAME" value="input_negativeMoney_test" />
+      <option name="METHOD_NAME" value="toArrayList_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LottoGameTest.makeAutoList_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringAddCalculatorTest.add_쉼표구분자" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-study-lotto_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LottoGameTest" />
-      <option name="METHOD_NAME" value="makeAutoList_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LottoGameTest.rank_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-study-lotto_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LottoGameTest" />
-      <option name="METHOD_NAME" value="rank_test" />
+      <option name="MAIN_CLASS_NAME" value="StringAddCalculatorTest" />
+      <option name="METHOD_NAME" value="add_쉼표구분자" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.LottoGameTest.countMatchNumber_test" />
-      <item itemvalue="JUnit.LottoGameTest.getProfitRate_test" />
-      <item itemvalue="JUnit.LottoGameTest.input_negativeMoney_test" />
-      <item itemvalue="JUnit.LottoGameTest.makeAutoList_test" />
-      <item itemvalue="JUnit.LottoGameTest.rank_test" />
+      <item itemvalue="JUnit.StringAddCalculatorTest.add_쉼표구분자" />
+      <item itemvalue="Application.LottoGameMain" />
+      <item itemvalue="JUnit.LottoGameTest.test" />
+      <item itemvalue="JUnit.LottoGameTest" />
+      <item itemvalue="JUnit.LottoGameTest.toArrayList_test" />
+      <item itemvalue="JUnit.LottoGameTest.getResult_test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LottoGameTest.rank_test" />
-        <item itemvalue="JUnit.LottoGameTest.makeAutoList_test" />
-        <item itemvalue="JUnit.LottoGameTest.getProfitRate_test" />
-        <item itemvalue="JUnit.LottoGameTest.input_negativeMoney_test" />
-        <item itemvalue="JUnit.LottoGameTest.countMatchNumber_test" />
+        <item itemvalue="JUnit.LottoGameTest.getResult_test" />
+        <item itemvalue="Application.LottoGameMain" />
+        <item itemvalue="JUnit.LottoGameTest.toArrayList_test" />
+        <item itemvalue="JUnit.LottoGameTest" />
+        <item itemvalue="JUnit.LottoGameTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -968,85 +706,49 @@
       <workItem from="1540963392552" duration="3312000" />
       <workItem from="1540976698857" duration="272000" />
       <workItem from="1540977102922" duration="2200000" />
-      <workItem from="1540980183419" duration="6050000" />
-      <workItem from="1540988004635" duration="316000" />
-      <workItem from="1541224010647" duration="2174000" />
-      <workItem from="1541248966765" duration="1583000" />
-      <workItem from="1541510002255" duration="12258000" />
-      <workItem from="1541922503214" duration="250000" />
-      <workItem from="1542024191007" duration="910000" />
-      <workItem from="1542035515980" duration="6994000" />
-      <workItem from="1542043151643" duration="1169000" />
-      <workItem from="1542092348872" duration="24806000" />
-      <workItem from="1542172969436" duration="966000" />
-      <workItem from="1542184570198" duration="3531000" />
-      <workItem from="1542189384499" duration="2787000" />
-      <workItem from="1542386438747" duration="1840000" />
-      <workItem from="1542438276355" duration="8639000" />
-      <workItem from="1542524192726" duration="5304000" />
-      <workItem from="1542541712868" duration="24841000" />
-      <workItem from="1542614538318" duration="3583000" />
-      <workItem from="1542618340083" duration="1720000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LottoGameTest_makeAutoList_test - 2018.11.19 at 17h 40m 42s.xml">
-      <configuration name="LottoGameTest.makeAutoList_test" configurationId="JUnit" />
+    <history-entry file="LottoGameTest_toArrayList_test - 2018.10.31 at 03h 05m 38s.xml">
+      <configuration name="LottoGameTest.toArrayList_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoGameTest_makeAutoList_test - 2018.11.19 at 17h 41m 13s.xml">
-      <configuration name="LottoGameTest.makeAutoList_test" configurationId="JUnit" />
+    <history-entry file="LottoGameTest_toArrayList_test - 2018.10.31 at 03h 08m 06s.xml">
+      <configuration name="LottoGameTest.toArrayList_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoGameTest_makeAutoList_test - 2018.11.19 at 17h 42m 59s.xml">
-      <configuration name="LottoGameTest.makeAutoList_test" configurationId="JUnit" />
+    <history-entry file="LottoGameTest_toArrayList_test - 2018.10.31 at 03h 11m 58s.xml">
+      <configuration name="LottoGameTest.toArrayList_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoGameTest_makeAutoList_test - 2018.11.19 at 17h 44m 41s.xml">
-      <configuration name="LottoGameTest.makeAutoList_test" configurationId="JUnit" />
+    <history-entry file="LottoGameTest_toArrayList_test - 2018.10.31 at 03h 13m 05s.xml">
+      <configuration name="LottoGameTest.toArrayList_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoGameTest_makeAutoList_test - 2018.11.19 at 17h 45m 00s.xml">
-      <configuration name="LottoGameTest.makeAutoList_test" configurationId="JUnit" />
+    <history-entry file="LottoGameTest_getResult_test - 2018.10.31 at 14h 28m 20s.xml">
+      <configuration name="LottoGameTest.getResult_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoGameTest_makeAutoList_test - 2018.11.19 at 17h 47m 13s.xml">
-      <configuration name="LottoGameTest.makeAutoList_test" configurationId="JUnit" />
+    <history-entry file="LottoGameTest_getResult_test - 2018.10.31 at 14h 30m 15s.xml">
+      <configuration name="LottoGameTest.getResult_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoGameTest_makeAutoList_test - 2018.11.19 at 17h 47m 27s.xml">
-      <configuration name="LottoGameTest.makeAutoList_test" configurationId="JUnit" />
+    <history-entry file="LottoGameTest_getResult_test - 2018.10.31 at 14h 31m 03s.xml">
+      <configuration name="LottoGameTest.getResult_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoGameTest_makeAutoList_test - 2018.11.19 at 17h 47m 56s.xml">
-      <configuration name="LottoGameTest.makeAutoList_test" configurationId="JUnit" />
+    <history-entry file="LottoGameTest_getResult_test - 2018.10.31 at 14h 43m 05s.xml">
+      <configuration name="LottoGameTest.getResult_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoGameTest_makeAutoList_test - 2018.11.19 at 17h 50m 29s.xml">
-      <configuration name="LottoGameTest.makeAutoList_test" configurationId="JUnit" />
+    <history-entry file="LottoGameTest_getResult_test - 2018.10.31 at 18h 35m 55s.xml">
+      <configuration name="LottoGameTest.getResult_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoGameTest_rank_test - 2018.11.19 at 17h 54m 47s.xml">
-      <configuration name="LottoGameTest.rank_test" configurationId="JUnit" />
+    <history-entry file="LottoGameTest_getResult_test - 2018.10.31 at 18h 36m 00s.xml">
+      <configuration name="LottoGameTest.getResult_test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    <option name="totallyTimeSpent" value="72478000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
-=======
-    <option name="totallyTimeSpent" value="180164000" />
+    <option name="totallyTimeSpent" value="71964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27461708" />
->>>>>>> Stashed changes
-=======
-    <option name="totallyTimeSpent" value="180164000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27461708" />
->>>>>>> Stashed changes
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27461708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1056,25 +758,15 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.23452769" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.29207385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32899022" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.28121606" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.24013157" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.330076" />
-=======
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.28399122" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" weight="0.28338763" />
->>>>>>> Stashed changes
-=======
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.28399122" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" weight="0.28338763" />
->>>>>>> Stashed changes
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32899022" />
@@ -1127,6 +819,13 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/plan" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
@@ -1142,10 +841,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/requests/FilterRequest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="197">
+          <caret line="833" selection-start-line="833" selection-end-line="833" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LottoGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/view/InputView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Lotto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/LottoDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/LottoGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/view/ResultView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -1156,140 +906,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="833" column="40" selection-start-line="833" selection-start-column="40" selection-end-line="833" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    <entry file="file://$PROJECT_DIR$/src/main/java/view/InputView.java">
-=======
-=======
->>>>>>> Stashed changes
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/ManualLottoList.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/AutoLottoList.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/util.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/dto/LottoDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="28" selection-start-line="9" selection-start-column="34" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/Rank.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        <state relative-caret-position="100">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-=======
-=======
->>>>>>> Stashed changes
-        <state relative-caret-position="360">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/view/ResultView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="102" selection-start-line="9" selection-start-column="102" selection-end-line="9" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
->>>>>>> Stashed changes
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/Lotto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/LottoNo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/view/InputView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/WinningLotto.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        <state relative-caret-position="140">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-=======
-        <state relative-caret-position="300">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
->>>>>>> Stashed changes
-=======
-        <state relative-caret-position="300">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
->>>>>>> Stashed changes
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LottoGameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1060">
-          <caret line="62" column="72" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/LottoGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dto/LottoGameDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/view/LottoGameMain.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         <state relative-caret-position="300">
           <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
         </state>
@@ -1304,54 +922,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="1020" column="10" selection-start-line="1020" selection-start-column="10" selection-end-line="1020" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/Rank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/LottoNo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dto/LottoGameDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LottoGameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-448">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
->>>>>>> Stashed changes
-=======
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
->>>>>>> Stashed changes
-        </state>
+        <state relative-caret-position="-17951" />
       </provider>
     </entry>
   </component>
